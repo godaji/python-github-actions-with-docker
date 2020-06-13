@@ -130,3 +130,8 @@ CapWords
 
 # Newline at end of file
 ```
+
+# 2. [gitignore](https://github.com/github/gitignore)
+
+
+
