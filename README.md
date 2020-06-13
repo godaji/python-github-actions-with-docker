@@ -184,3 +184,9 @@ FAILED test_sample.py::test_answer - assert 4 == 5
 ============================ 1 failed in 0.12s =============================
 
 ```
+
+# 5. [flake8 for lint](https://flake8.pycqa.org/en/latest/)
+```
+$ cd /src
+# flake8 .
+```
