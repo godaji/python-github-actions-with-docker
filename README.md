@@ -131,7 +131,19 @@ CapWords
 # Newline at end of file
 ```
 
+
 # 2. [gitignore](https://github.com/github/gitignore)
 
 
+# 3. Interactive docker shell for testing
+
+python package 설치와 테스트 스크립트 실행을 위한 독립된 환경을 구성하기 위한 작업. 
+
+```sh
+# In docker shell
+
+$ cd /src
+$ pip install pytest
+$ pip freeze > requirements.txt
+```
 
