@@ -2,7 +2,8 @@ from log import logger
 
 
 def main():
-    logger.info('hello')
+    logger.info('Hello, this is DJ.')
+
 
 
 if __name__ == '__main__':

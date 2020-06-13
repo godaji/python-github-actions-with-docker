@@ -196,3 +196,5 @@ $ cd /src
 - Move python code into dj
 - Add logger
 - Mkdir tests folder and move test file
+
+# 7. Add Dockerfile
