@@ -1,5 +1,8 @@
+from log import logger
+
+
 def main():
-    print('hello')
+    logger.info('hello')
 
 
 if __name__ == '__main__':

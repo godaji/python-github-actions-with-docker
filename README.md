@@ -190,3 +190,9 @@ FAILED test_sample.py::test_answer - assert 4 == 5
 $ cd /src
 # flake8 .
 ```
+
+# 6. Refactor folder and add log.py
+- Add dj folder
+- Move python code into dj
+- Add logger
+- Mkdir tests folder and move test file
