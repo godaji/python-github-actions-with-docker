@@ -1,3 +1,3 @@
 
 def oauth():
-    pass
+    print ('oauth')
